@@ -1,0 +1,5 @@
+com/example/learningJPA/employee/service/EmployeeService.class
+com/example/learningJPA/employee/repository/EmployeeRepository.class
+com/example/learningJPA/employee/controller/EmployeeController.class
+com/example/learningJPA/LearningJpaApplication.class
+com/example/learningJPA/employee/model/Employee.class

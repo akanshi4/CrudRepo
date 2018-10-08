@@ -1,0 +1,5 @@
+/home/telstra/learning/learningJPA/src/main/java/com/example/learningJPA/LearningJpaApplication.java
+/home/telstra/learning/learningJPA/src/main/java/com/example/learningJPA/employee/controller/EmployeeController.java
+/home/telstra/learning/learningJPA/src/main/java/com/example/learningJPA/employee/model/Employee.java
+/home/telstra/learning/learningJPA/src/main/java/com/example/learningJPA/employee/service/EmployeeService.java
+/home/telstra/learning/learningJPA/src/main/java/com/example/learningJPA/employee/repository/EmployeeRepository.java
